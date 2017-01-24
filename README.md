@@ -1,2 +1,2 @@
-# Hello-world
-This is my very first repository.
+# Hey, this sucks.
+# Why the hell am I doing this?
